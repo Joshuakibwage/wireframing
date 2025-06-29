@@ -142,3 +142,32 @@ Wireframes come in different levels of detail and fidelity depending on the stag
 
 Each type serves a unique purpose and contributes to a smoother and more efficient design-to-development workflow.
 ---
+
+Identifying the Wireframe Type for the Provided Figma Link
+Link: https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f
+
+Based on the structure and visual cues in the Figma file, this wireframe falls under the high‑fidelity wireframe category:
+
+    Visual polish: The layout includes well-defined typography, aligned spacing, icons/placeholders, and more refined components—unlike a rough sketch.
+
+    Structure and hierarchy clarity: It shows clear section divisions (e.g., header, search bar, listing areas), closely mimicking a live Airbnb-style homepage.
+
+    Potential for interaction: Figma’s prototype link implies clickable elements and prototype flow, which aren’t typical in low-fidelity wireframes.
+
+    Design-ready content placeholders: There are call-to-action buttons, text placeholders for listings, and imagery sections set up to reflect finished design.
+
+📌 Summary
+
+    Type: High‑Fidelity Wireframe
+
+    Why:
+
+        Detailed layout and spacing
+
+        Clear visual hierarchy
+
+        Clickable prototype elements
+
+        Design assets resembling a near-final interface
+
+Such a wireframe is typically used for late-stage design reviews, usability testing, or developer handoff—bridging the gap between visual mockups and functional implementation.
