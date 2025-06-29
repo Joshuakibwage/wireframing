@@ -171,3 +171,28 @@ Based on the structure and visual cues in the Figma file, this wireframe falls u
         Design assets resembling a near-final interface
 
 Such a wireframe is typically used for late-stage design reviews, usability testing, or developer handoff—bridging the gap between visual mockups and functional implementation.
+
+---
+
+## Wireframing Tools
+
+There are several tools available for creating wireframes, each with its own strengths. Some popular options include:
+
+- **Figma** – Browser-based, collaborative, and great for both low- and high-fidelity wireframes.
+- **Adobe XD** – Offers vector-based design and prototyping features.
+- **Sketch** – Mac-only tool known for its clean UI and plugin support.
+- **Balsamiq** – Best for quick, low-fidelity wireframe sketches.
+- **Whimsical** – Ideal for fast diagrams and wireframes with a drag-and-drop interface.
+
+### Why Use Figma?
+
+Figma is highly recommended for wireframing due to its:
+
+- **Real-time collaboration** – Teams can design together simultaneously.
+- **Cloud-based access** – No software installation needed.
+- **Component system** – Reusable design elements speed up workflow.
+- **Prototype linking** – Quickly turn wireframes into interactive flows.
+
+Figma's flexibility makes it ideal for both beginners and advanced designers working across the design process.
+
+---
