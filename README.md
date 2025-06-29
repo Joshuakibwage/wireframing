@@ -117,3 +117,28 @@ Understanding the key elements of a wireframe helps ensure the final design is u
 By incorporating these elements into your wireframe, you lay the groundwork for a successful user experience and effective design implementation.
 
 ---
+
+## Types of Wireframes
+
+Wireframes come in different levels of detail and fidelity depending on the stage of the design process. The two most common types are **Low-Fidelity** and **High-Fidelity** wireframes. Below is a comparison:
+
+| Feature                    | Low-Fidelity Wireframes                                 | High-Fidelity Wireframes                                  |
+|----------------------------|----------------------------------------------------------|------------------------------------------------------------|
+| **Definition**             | Basic sketches or simple digital layouts                 | Detailed and refined layouts resembling the final product   |
+| **Purpose**                | To explore layout ideas and structure quickly            | To simulate the real interface and gather detailed feedback |
+| **Design Detail**          | Minimal – no colors, fonts, or images                    | Includes typography, spacing, images, and UI components     |
+| **Interactivity**          | Typically static                                         | May include clickable elements and real interactions        |
+| **Tools Used**             | Paper, whiteboard, or basic tools like Balsamiq          | Advanced tools like Figma, Adobe XD, or Sketch             |
+| **Used When**              | Early stages of ideation and brainstorming               | Later stages before development or during stakeholder review|
+| **Speed of Creation**      | Fast and inexpensive                                     | Slower and more resource-intensive                         |
+| **Feedback Focus**         | Structure, content layout, and flow                      | Visual design, usability, and interactivity                 |
+
+---
+
+### Summary
+
+- **Use Low-Fidelity Wireframes** when you want to experiment with layout ideas, gather initial feedback, and iterate quickly without worrying about visuals.
+- **Use High-Fidelity Wireframes** when preparing for usability testing, developer handoff, or final stakeholder reviews.
+
+Each type serves a unique purpose and contributes to a smoother and more efficient design-to-development workflow.
+---
